@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.main{
+    border: 2px solid black;
+    /* flex-wrap: wrap; */
+    display: flex;
+    justify-content: space-between;
+    padding: 100px 0px;
+}
+
+.nav{
+    min-height: 150px;
+    width: 470px;
+    border: 2px solid red;
+}
